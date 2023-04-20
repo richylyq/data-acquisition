@@ -24,6 +24,7 @@ Scrape reddit post from Old Reddit with the use of PRAW library
 
 ### Python
 Have your `secrets.yaml` file ready for the credentials necessary to instantiate an instance of PRAW
+
 Run `python index.py --keyword <keyword>` to scrape reddit posts based on keyword input
 
 ## Todo
