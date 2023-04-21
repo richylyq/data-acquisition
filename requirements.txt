@@ -2,3 +2,4 @@ snscrape
 pandas
 praw
 bs4
+icrawler
